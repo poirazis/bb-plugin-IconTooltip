@@ -2,6 +2,7 @@
   "name": "bb-plugin-IconTooltip",
   "version": "1.0.0",
   "description": "An Icon Component for Budibase with Tooltip option",
+  "author": "Michael Poirazi",
   "license": "MIT",
   "svelte": "index.js",
   "module": "dist/plugin.min.js",
