@@ -1,0 +1,17 @@
+{
+  "type": "component",
+  "metadata": {},
+  "schema": {
+    "name": "bb-plugin-IconTooltip",
+    "friendlyName": "bb-plugin-IconTooltip",
+    "description": "An Icon Component for Budibase with Tooltip option",
+    "icon": "Text",
+    "settings": [
+      {
+        "type": "text",
+        "key": "text",
+        "label": "Text"
+      }
+    ]
+  }
+}
